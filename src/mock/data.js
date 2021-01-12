@@ -1,7 +1,4 @@
 import { nanoid } from 'nanoid';
-// --------------------------------------------------
-// https://carlosazaustre.es/gatsby-deploy-firebase
-// --------------------------------------------------
 
 // HEAD DATA
 export const headData = {
